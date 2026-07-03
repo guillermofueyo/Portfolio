@@ -70,6 +70,37 @@ Aplicación de escritorio desarrollada en Java 23 con Spring Boot y JavaFX para 
 https://github.com/guillermofueyo/Gestion_de_Empresa_Circense_Aplicativo_Java_Full_Stack.git
 
 
+## Proyecto Integrador IA y Análisis de Datos
+
+Proyecto desarrollado en Google Colab utilizando Excel, Power BI y Python para análisis, automatización y visualización de datos.
+
+### Tecnologías utilizadas
+
+* Python
+* Google Colab
+* Excel
+* Power BI
+* Pandas
+* NumPy
+* Matplotlib
+
+### Funcionalidades
+
+* Procesamiento y limpieza de datos
+* Automatización de tareas
+* Análisis estadístico
+* Visualización de datos
+* Predicción básica mediante IA
+
+### Archivo principal
+
+* `ProyectoFinal.ipynb`
+
+### Repositorio
+
+https://github.com/guillermofueyo/Proyecto_Integrador_IA_Analisis_Datos.git
+
+
 # Estado del Portfolio
 
 Portfolio en constante ampliación con nuevos proyectos relacionados con desarrollo multiplataforma, automatización, interfaces gráficas y desarrollo de videojuegos.
